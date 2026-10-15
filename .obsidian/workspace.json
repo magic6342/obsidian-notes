@@ -1,0 +1,243 @@
+{
+  "main": {
+    "id": "44dafc5994ea9669",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d814fe6ead9447e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cfdc01f6713f30ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "movesets/killers (or CORRUPTEDS)/Metal protector MK.2 moveset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Metal protector MK.2 moveset"
+            }
+          },
+          {
+            "id": "876ba2066abe9f43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "themes/ALL THEMES FOR MY GAME CONCEPT.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ALL THEMES FOR MY GAME CONCEPT"
+            }
+          },
+          {
+            "id": "e7b2a7de542b3cb7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "movesets/survivors (or COMPONENTS)/Eclipse moveset.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Eclipse moveset"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4657970698d50092",
+    "type": "split",
+    "children": [
+      {
+        "id": "2007206052b4e25b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6da109f3901a8771",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f55d960fdee64d63",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "54b64f28700caa68",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "34eae9d247c2d44e",
+    "type": "split",
+    "children": [
+      {
+        "id": "36bd25a8147a37d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1fa224506af4ec54",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "ce7392e220cf00d2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "0d780c70b81d85d0",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5a00cbbff2e85e37",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "af10a7c44a21f610",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "876ba2066abe9f43",
+  "lastOpenFiles": [
+    "themes/ALL THEMES FOR MY GAME CONCEPT.md",
+    "movesets/survivors (or COMPONENTS)/Eclipse moveset.md",
+    "movesets/survivors (or COMPONENTS)/Radi moveset.md",
+    "movesets/killers (or CORRUPTEDS)/Metal protector MK.2 moveset.md",
+    "movesets/killers (or CORRUPTEDS)/The night sovereign moveset.md",
+    "other/confirmed roster.md",
+    "themes/lms themes.md",
+    "movesets/killers (or CORRUPTEDS)/KILLER TEMPLATE MOVESET.md",
+    "themes/main themes.md",
+    "movesets/survivors (or COMPONENTS)/SURVIVOR TEMPLATE MOVESET.md",
+    "other/status effects.md",
+    "themes/escape themes.md",
+    "themes/2-FACED HERO.mp3",
+    "themes/EXPLOSION IMMINENT.mp3",
+    "themes/FAKER SCUFFLE.mp3",
+    "themes/WAR-TORN FLESH.mp3",
+    "themes/NOSTALGIC RECLUSE.mp3",
+    "Untitled.canvas",
+    "ALL THEMES FOR MY GAME CONCEPT.md",
+    "themes/UNRECOGNISABLE FACE.mp3",
+    "Untitled.md"
+  ]
+}

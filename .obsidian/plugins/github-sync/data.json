@@ -1,0 +1,9 @@
+{
+  "remoteURL": "https://github.com/magic6342/obsidian-notes",
+  "gitLocation": "",
+  "syncinterval": 0,
+  "isSyncOnLoad": true,
+  "checkStatusOnLoad": true,
+  "noticeLevel": "ALL",
+  "showSyncSuccessNotice": true
+}
