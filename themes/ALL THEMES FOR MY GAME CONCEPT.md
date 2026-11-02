@@ -60,7 +60,13 @@
 
 [[SHATTERED GEODES.mp3]]
 
-*Grappler/Webber vs The night sovereign*
+*Grappler vs The night sovereign*
+
+
+
+[SHATTERED GEODES (webber varient)]
+
+*Webber vs The night sovereign*
 
 
 
