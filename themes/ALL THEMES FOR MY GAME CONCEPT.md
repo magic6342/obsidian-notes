@@ -64,7 +64,7 @@
 
 
 
-[SHATTERED GEODES (webber varient)]()
+[SHATTERED GEODES (webber varient)](https://www.youtube.com/watch?v=Ynq-ns1Y7Ck&list=RDYnq-ns1Y7Ck&start_radio=1)
 
 *Webber vs The night sovereign*
 
