@@ -64,7 +64,7 @@
 
 
 
-[SHATTERED GEODES (webber varient)]
+[SHATTERED GEODES (webber varient)]()
 
 *Webber vs The night sovereign*
 
