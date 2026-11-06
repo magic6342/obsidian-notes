@@ -31,6 +31,13 @@ QUOTE: "WHERE ARE ***YOU*** GOING, WORM??"
 during the last 80 seconds of a round- aka during the escape sequence- !INSANITY will have buffed movement speed (around +5 studs to both walking and running) along with a x1.5 buff to all damage and having all effects applied by moves either 5 seconds longer or 1 increment higher (E.G read-only for 5s becomes 10s and memory leak 2 would become memory leak 3). Doesn't activate during **LAST LINESIAN STANDING**.
 
 
+**Passive (2): DANGER SENSE.**
+
+*"I CAN SENSE YOU!!"*
+
+When a player exit's !INSANITY's terror radius after being either in it for 1 minute or being hit for over 70hp during the chase, they will be highlighted after 35 seconds of being out of chase- along with revealing any other nearby survivors (like a 40-50 stud radius). after 5 seconds, this highlight disappears.
+
+
 **M1: SLASH**
 
 *"I FIGHT TO KILL, NOT TO ENTERTAIN YOU."*
@@ -42,9 +49,14 @@ Q: **PARRY**
 
 *"DID YOU SERIOUSLY THINK I'D JUST STAND THERE AND TAKE IT?"*
 
-!INSANITY will enter a blocking stance after a 0.5s windup/animation upon the ability's initiation. If he is hit during this state, he'll reach forward with a shadowy tendril ripping out of his back, grabbing the survivor and slamming them into the ground, dealing 35 damage and applying **CORRUPTED** for 5 seconds, along with **READ-ONLY** for 10 seconds. If he isnt hit within 2 seconds of entering the stance, he'll exit the stance, with **READ-ONLY** for 5 seconds and  
-E:
+!INSANITY will enter a blocking stance after a 0.5s windup/animation upon the ability's initiation. If he is hit during this state, he'll reach forward with a shadowy tendril ripping out of his back, grabbing the survivor and slamming them into the ground, dealing 35 damage and applying **CORRUPTED** for 5 seconds, along with **READ-ONLY** for 10 seconds. If he isnt hit within 2 seconds of entering the stance, he'll exit the stance, with **READ-ONLY** for 5 seconds and **PIRATED I**.
 
+
+E: **POWER-HOLD**
+
+*"DO YOU FEEL THE AIR ESCAPING YOUR LUNGS-!?!"*
+
+!INSANITY lunges forward, swiping outwards for a grab. If he successfully grabs a survivor. 
 
 
 R:
