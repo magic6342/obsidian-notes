@@ -49,21 +49,21 @@ Q: **PARRY**
 
 *"DID YOU SERIOUSLY THINK I'D JUST STAND THERE AND TAKE IT?"*
 
-!INSANITY will enter a blocking stance after a 0.5s windup/animation upon the ability's initiation. If he is hit during this state, he'll reach forward with a shadowy tendril ripping out of his back, grabbing the survivor and slamming them into the ground, dealing 35 damage and applying **CORRUPTED** for 5 seconds, along with **READ-ONLY** for 10 seconds. If he isnt hit within 2 seconds of entering the stance, he'll exit the stance, with **READ-ONLY** for 5 seconds and **PIRATED I**.
+!INSANITY will enter a blocking stance after a 0.5s windup/animation upon the ability's initiation. If he is hit during this state, he'll reach forward with a shadowy tendril ripping out of his back, grabbing the survivor and slamming them into the ground, dealing 35 damage and applying **CORRUPTED** for 5 seconds, along with **READ-ONLY** for 10 seconds. If he isnt hit within 2 seconds of entering the stance, he'll exit the stance, with **READ-ONLY** for 5 seconds and **PIRATED I**. 45 second cooldown.
 
 
 E: **POWER-HOLD**
 
 *"DO YOU FEEL THE AIR ESCAPING YOUR LUNGS-!?!"*
 
-!INSANITY lunges forward, swiping outwards for a grab. If he successfully grabs a survivor, he'll grab them by the throat and hold them up in the air. while holding a survivor, he can move at a 50% slower rate of his walkspeed. Upon grabbing a survivor and waiting for a 5 second cooldown, he can either press Q to throw them to the ground and stomp on them, dealing a devestating 60 damage with no effects applied to the survivor and **READ-ONLY** being applied to himself for 3 seconds. He can also press E to drive his knife into them before dropping them, dealing 30 damage but also applying **SHOCKED II** for 5 seconds to them, applying **PIRATED I** to himself. If he misses the grab, he's given **SHOCKED IV** for 5 seconds and **READ-ONLY** for 5 as well. the survivors can play a minigame to escape !INSANITY's grab, similar to the struggle mechanic when you're downed in murderthon. If done right should give just enough time to escape.
+!INSANITY lunges forward, swiping outwards for a grab. If he successfully grabs a survivor, he'll grab them by the throat and hold them up in the air. while holding a survivor, he can move at a 50% slower rate of his walkspeed. Upon grabbing a survivor and waiting for a 5 second cooldown, he can either press Q to throw them to the ground and stomp on them, dealing a devestating 60 damage with no effects applied to the survivor and **READ-ONLY** being applied to himself for 3 seconds. He can also press E to drive his knife into them before dropping them, dealing 30 damage but also applying **SHOCKED II** for 5 seconds to them, applying **PIRATED I** to himself. If he misses the grab, he's given **SHOCKED IV** for 5 seconds and **READ-ONLY** for 5 as well. the survivors can play a minigame to escape !INSANITY's grab, similar to the struggle mechanic when you're downed in murderthon. If done right should give just enough time to escape. 30 second cooldown.
 
 
 R: **CHASE-DOWN**
 
 *"YOU CAN TRY TO RUN ALL YOU WANT, BUT ILL CATCH UP!!"*
 
-!INSANITY halts movement, tendrils shooting out of his back and latching into the floor. the pl
+!INSANITY halts movement, tendrils shooting out of his back and latching into the floor. the player has 5 seconds to aim their dash before !INSANITY takes off at high speed, turning POSSIBLE but not sharp turning, think of it like noli's dash. if he hits someone, he'll grab them and use a tendril to stab them, throwing them away afterwards, dealing 40 damage and applying **PIRATED III** to them. if he's missed, he's highlighted to all survivors for 5 seconds and given a speed debuff of 25% for 10 seconds. his windup is interruptible by stunning, and any character with a block/parry move CAN use that to the dash, but it will cause them to be flung back, with 10% longer cooldown and- if block gives charge for another ability, it wont be granted.
 
 
 Special lmses: **2-FACED HERO** *vs Protector*, **UNRECOGNISABLE FACE** *vs Ivy*, **WAR-TORN FLESH** *vs deleter*, and **OLD PALS** *vs Blaster*.
