@@ -61,8 +61,9 @@ E: **POWER-HOLD**
 
 R: **CHASE-DOWN**
 
-*"YU CAN TRY TO RUN ALL YOU WANT*
+*"YOU CAN TRY TO RUN ALL YOU WANT, BUT ILL CATCH UP!!"*
 
+!INSANITY halts movement, tendrils shooting out of his back and latching into the floor. the pl
 
 
 Special lmses: **2-FACED HERO** *vs Protector*, **UNRECOGNISABLE FACE** *vs Ivy*, **WAR-TORN FLESH** *vs deleter*, and **OLD PALS** *vs Blaster*.
