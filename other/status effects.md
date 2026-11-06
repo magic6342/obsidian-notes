@@ -14,7 +14,7 @@
 
 
 
-**READ-ONLY**: locks the survivor out of using their abilities for the specified duration.
+**READ-ONLY**: locks the survivor out of using their abilities for the specified duration. cooldowns still decrease during **READ-ONLY**'s duration.
 
 
 

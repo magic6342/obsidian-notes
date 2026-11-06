@@ -28,7 +28,7 @@ QUOTE: "WHERE ARE ***YOU*** GOING, WORM??"
 
 *"TICK TOCK, MORTAL. TIME'S RUNNING LOW."*
 
-during the last 80 seconds of a round- aka during the escape sequence- !INSANITY will have buffed movement speed (around +5 studs to both walking and running) along with a x1.5 buff to all damage and having all effects applied by moves either 5 seconds longer or 1 increment higher (E.G read-only for 5s becomes 10s and memory leak 2 would become memory leak 3). Doesn't activate during **
+during the last 80 seconds of a round- aka during the escape sequence- !INSANITY will have buffed movement speed (around +5 studs to both walking and running) along with a x1.5 buff to all damage and having all effects applied by moves either 5 seconds longer or 1 increment higher (E.G read-only for 5s becomes 10s and memory leak 2 would become memory leak 3). Doesn't activate during **LAST LINESIAN STANDING**.
 
 
 **M1: SLASH**
@@ -38,10 +38,11 @@ during the last 80 seconds of a round- aka during the escape sequence- !INSANITY
 !INSANITY slashes with his knife, dealing 20 damage with a 2 second cooldown and 0.2 second windup. has a 25% chance to inflict **MEMORY LEAK I** for 5 seconds.
 
 
-Q:
+Q: **PARRY**
 
+*"DID YOU SERIOUSLY THINK I'D JUST STAND THERE AND TAKE IT?"*
 
-
+!INSANITY will enter a blocking stance after a 0.5s windup/animation upon the ability's initiation. If he is hit during this state, he'll reach forward with a shadowy tendril ripping out of his back, grabbing the survivor and slamming them into the ground, dealing 35 damage and applying **CORRUPTED** for 5 seconds, along with **READ-ONLY** for 10 seconds. If he isnt hit within 2 seconds of entering the stance, he'll exit the stance, with **READ-ONLY** for 5 seconds and  
 E:
 
 
