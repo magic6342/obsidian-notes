@@ -34,7 +34,7 @@
 
 
 
-**EXPLOITED**: stops the player's cooldowns for all abilities for the specified duration- can be applied to both killers and survivors.
+**EXPLOITED**: stops the player's cooldowns for all abilities for the specified duration- can be applied to both killers and survivors. if an ability is off cooldown, it can still be used.
 
 
 
