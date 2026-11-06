@@ -59,7 +59,9 @@ E: **POWER-HOLD**
 !INSANITY lunges forward, swiping outwards for a grab. If he successfully grabs a survivor, he'll grab them by the throat and hold them up in the air. while holding a survivor, he can move at a 50% slower rate of his walkspeed. Upon grabbing a survivor and waiting for a 5 second cooldown, he can either press Q to throw them to the ground and stomp on them, dealing a devestating 60 damage with no effects applied to the survivor and **READ-ONLY** being applied to himself for 3 seconds. He can also press E to drive his knife into them before dropping them, dealing 30 damage but also applying **SHOCKED II** for 5 seconds to them, applying **PIRATED I** to himself. If he misses the grab, he's given **SHOCKED IV** for 5 seconds and **READ-ONLY** for 5 as well. the survivors can play a minigame to escape !INSANITY's grab, similar to the struggle mechanic when you're downed in murderthon. If done right should give just enough time to escape.
 
 
-R: 
+R: **CHASE-DOWN**
+
+*"YU CAN TRY TO RUN ALL YOU WANT*
 
 
 
