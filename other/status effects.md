@@ -46,7 +46,7 @@
 
 
 
-**MEMORY LEAK**: deals 2 damage per second. with each level, the second increment goes down by 0.5- so **MEMORY LEAK II** deals 2 damage per 0.95 seconds (this is literally just bleeding from forsaken)
+**MEMORY LEAK**: deals 2 damage per second. with each level, the second increment goes down by 0.05- so **MEMORY LEAK II** deals 2 damage per 0.95 seconds (this is literally just bleeding from forsaken)
 
 
 
