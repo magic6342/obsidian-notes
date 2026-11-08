@@ -28,7 +28,7 @@ QUOTE: "WHERE ARE ***YOU*** GOING, WORM??"
 
 *"TICK TOCK, MORTAL. TIME'S RUNNING LOW."*
 
-during the last 80 seconds of a round- aka during the escape sequence- !INSANITY will have buffed movement speed (around +5 studs to both walking and running) along with a x1.5 buff to all damage and having all effects applied by moves either 5 seconds longer or 1 increment higher (E.G read-only for 5s becomes 10s and memory leak 2 would become memory leak 3). Doesn't activate during **LAST LINESIAN STANDING**.
+during the last 80 seconds of a round- aka during the escape sequence- !INSANITY will have buffed movement speed (around +5 studs to both walking and running) along with a x1.5 buff to all M1 damage and having all effects applied by moves either 5 seconds longer or 1 increment higher (E.G read-only for 5s becomes 10s and memory leak 2 would become memory leak 3). Doesn't activate during **LAST LINESIAN STANDING**.
 
 
 **Passive (2): DANGER SENSE.**
