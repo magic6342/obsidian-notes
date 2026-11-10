@@ -52,7 +52,7 @@
 
 
 
-[[OBJECTIFIED JUSTICE.mp3]] (this will be changed to https://youtu.be/a5DfwSO1Ww8?si=2h0qQslVlbHrTHpE, mainly to cut any and all associations to pace/michimoomo :P)
+[[OBJECTIFIED JUSTICE.mp3]]
 
 *Eclipse vs Shade/The night sovereign*
 
@@ -88,7 +88,7 @@
 
 
 
-[[FAKER SCUFFLE.mp3]] (haven't renamed the file to MARKED FOR REPLACEMENT yet)
+[[MARKED FOR REPLACEMENT.mp3]]
 
 *Metal protector MK.1 vs MK.2*
 
@@ -102,7 +102,7 @@
 
 [[FISTS UP.mp3]]
 
-*slicer lms theme (DONT ASK WHY HE HAS HIS OWN UNIQUE SOLO OK?)*
+*slicer’s FLEETING FIGHT (1v1 LLS) theme*
 
 
 

@@ -69,7 +69,7 @@ simple detection ability. darkens screen, but will highlight all survivors and s
 
 Special lms:
 
-[[FAKER SCUFFLE.mp3]]
+[[MARKED FOR REPLACEMENT.mp3]]
 
 *Metal protector MK.2 vs Metal protector MK.1*
 
