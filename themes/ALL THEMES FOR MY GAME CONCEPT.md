@@ -191,3 +191,10 @@
 
 [THE LAST HERO.](https://youtu.be/ao3fmkun4EI?si=gYxKmitIXRYDT4MN)
 *"Doctor" (eggman) Radi lms
+
+*----------------------------------------------------------------------------------------------*
+
+***CHARACTER SPECIFIC LLS THEMES*** (if i decide to take the OM route of giving each character a special lls- if i do this, then slicer will get an lls theme specific to EVERY FUCKING KILLER)
+
+
+
