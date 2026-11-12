@@ -106,6 +106,12 @@
 
 
 
+[LIGHTS, CAMERA, ACTION!](https://youtu.be/ABKXkxMUF-E?si=lYv4c9GwCPHcQCqI)
+
+*Radi's final broadcast (special LLS (just adds effects to the screen lol)) theme
+
+
+
 [FOLDER OF TORMENT](https://youtu.be/8s1mqGNWfPE?si=CK183RoLeOSb_nAD)
 
 *1 survivor vs 8(?) killers*
@@ -185,8 +191,3 @@
 
 [THE LAST HERO.](https://youtu.be/ao3fmkun4EI?si=gYxKmitIXRYDT4MN)
 *"Doctor" (eggman) Radi lms
-
-
-
-[KEEP UP YOUR PEAS.](https://youtu.be/eeoLzUDSFdQ?si=QjZnTwFcwTMK7fsb)
-*"Plant" (or "Gardener" idk but its A pvz skin) Blaster lms*
