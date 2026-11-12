@@ -220,3 +220,18 @@ slicer is just... not getting a section here, i am NOT listing out like 10 fucki
 
 
 
+[TAKE A SWING AT IT](https://youtu.be/e6JTvj3wdQA?si=nlKA-51L5zAIZn7q)
+
+*Webber LLS theme*
+
+
+
+[HYMNS OF CHAOS](https://youtu.be/9Y9Dpx-F9_4?si=3y18eiJNfSx__KjM)
+
+*Eclipse LLS theme*
+
+
+
+
+
+
