@@ -204,3 +204,19 @@
 
 
 
+[MECHANICAL FREAK](https://youtu.be/omRIUHzX9-w?si=1LNSHGMNo2SEbPnh)
+
+*Blaster LLS theme*
+
+
+
+slicer is just... not getting a section here, i am NOT listing out like 10 fucking songs for slicer rn
+
+
+
+[MUSCLE MEMORY](https://youtu.be/Oaped3Y5_as?si=00F0_Mj8NrL7FHrw)
+
+*Ivy LLS theme*
+
+
+
