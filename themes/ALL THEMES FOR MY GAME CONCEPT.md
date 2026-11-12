@@ -210,7 +210,7 @@
 
 
 
-slicer is just... not getting a section here, i am NOT listing out like 10 fucking songs for slicer rn
+slicer is just... not getting a section here, i am NOT listing out like 10 fucking songs for slicer rn. Radi also isnt mentioned in this section because LIGHTS, CAMERA ACTION is literally his specific LLS anyway. he might get a performance based one, but shrug.
 
 
 
@@ -250,15 +250,9 @@ slicer is just... not getting a section here, i am NOT listing out like 10 fucki
 
 
 
-xxx
+[NOTHING BUT PAINT AND A DREAM](https://youtu.be/8sCj-B0f9sg?si=N77MemdmvGOOu13r)
 
-Radi
-
-
-
-xxx
-
-cherry
+*Cherry LLS theme*
 
 
 
