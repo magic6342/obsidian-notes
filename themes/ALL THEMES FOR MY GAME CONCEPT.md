@@ -244,9 +244,9 @@ slicer is just... not getting a section here, i am NOT listing out like 10 fucki
 
 
 
-xxx
+[NO MORE RESTRAINTS.](https://youtu.be/PKO1gBzkkVU?si=8dMMTHbjMxUzE0w0)
 
-deleter
+*Deleter LLS theme*
 
 
 
@@ -262,15 +262,15 @@ cherry
 
 
 
-xxx
+[ANONYMOUS BUT DANGEROUS](https://youtu.be/ZSknbUEx_mA?si=sLyaq-piNUskfMRO)
 
-wanderer
+*The wanderer LLS theme*
 
 
 
-xxx
+[THE LIGHT OF THEIR LIFE](https://youtu.be/XQlS7e2xZtg?si=xzrB3NV_OeVf_tV2)
 
-tollox
+*Tollox LLS theme*
 
 
 
