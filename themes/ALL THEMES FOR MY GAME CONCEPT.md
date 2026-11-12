@@ -194,7 +194,7 @@
 
 *----------------------------------------------------------------------------------------------*
 
-***CHARACTER SPECIFIC LLS THEMES*** (if i decide to do this, it'll work like abyssal escape- survivor specific LLS themes will only play depending on how the survivor has played. if they play well, they get the special LLS- if not, its the default LLS. survivor-specific LLS themes dont override character matchups.)
+***CHARACTER SPECIFIC LLS THEMES*** (if i decide to do this, it'll work like abyssal escape- survivor specific LLS themes will only play depending on how the survivor has played. if they play well, they get the special LLS- if not, its the default LLS. survivor-specific LLS themes dont override character matchups. this probably WONT happen but i thought itd be funny)
 
 
 
@@ -256,7 +256,7 @@ slicer is just... not getting a section here, i am NOT listing out like 10 fucki
 
 
 
-[ANONYMOUS BUT DANGEROUS](https://www.youtube.com
+[ANONYMOUS BUT DANGEROUS](https://youtu.be/IcMWAUEAgsE?si=7f9liFNzR-jhrY53)
 
 *The wanderer LLS theme*
 
@@ -265,7 +265,6 @@ slicer is just... not getting a section here, i am NOT listing out like 10 fucki
 [THE LIGHT OF THEIR LIFE](https://youtu.be/XQlS7e2xZtg?si=xzrB3NV_OeVf_tV2)
 
 *Tollox LLS theme*
-
 
 
 
