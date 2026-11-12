@@ -194,7 +194,7 @@
 
 *----------------------------------------------------------------------------------------------*
 
-***CHARACTER SPECIFIC LLS THEMES*** (if i decide to take the OM route of giving each character a special lls- if i do this, then slicer will get an lls theme specific to EVERY FUCKING KILLER)
+***CHARACTER SPECIFIC LLS THEMES*** (if i decide to do this, it'll work like abyssal escape- survivor specific LLS themes will only play depending on how the survivor has played. if they play well, they get the special LLS- if not, its the default LLS. survivor-specific LLS themes dont override character matchups.)
 
 
 
@@ -220,7 +220,7 @@ slicer is just... not getting a section here, i am NOT listing out like 10 fucki
 
 
 
-[TAKE A SWING AT IT](https://youtu.be/e6JTvj3wdQA?si=nlKA-51L5zAIZn7q)
+[TAKE A SWING AT IT](https://youtu.be/R6KLFcVoDds?si=ed4qOd-3K2-nrulu)
 
 *Webber LLS theme*
 
