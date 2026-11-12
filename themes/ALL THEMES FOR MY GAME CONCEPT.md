@@ -232,15 +232,15 @@ slicer is just... not getting a section here, i am NOT listing out like 10 fucki
 
 
 
-xxx
+[CRIMSON STAINED LAVENDER](https://youtu.be/K-yn0to_qUU?si=FaLn3A4K_B87L6t_)
 
-grappler
+*grappler LLS theme*
 
 
 
-xxx
+[STEEL-PLATED DETERMINATION](https://youtu.be/vbS0H4vUrC4?si=kAdrbSUk29kKu8P_)
 
-M.P.MK1
+*Metal protector MK.1 LLS*
 
 
 
