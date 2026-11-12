@@ -198,3 +198,9 @@
 
 
 
+[A LEADER AND A FIGHTER](https://youtu.be/8nLXrqvofnU?si=b6cB2DiNAUJlj_oI)
+
+*protector LLS theme*
+
+
+
