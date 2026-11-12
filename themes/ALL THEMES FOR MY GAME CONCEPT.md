@@ -232,6 +232,46 @@ slicer is just... not getting a section here, i am NOT listing out like 10 fucki
 
 
 
+xxx
+
+grappler
+
+
+
+xxx
+
+M.P.MK1
+
+
+
+xxx
+
+deleter
+
+
+
+xxx
+
+Radi
+
+
+
+xxx
+
+cherry
+
+
+
+xxx
+
+wanderer
+
+
+
+xxx
+
+tollox
+
 
 
 
