@@ -1,4 +1,6 @@
-
+[[status effects]]
+[[confirmed roster]]
+[[KILLER TEMPLATE MOVESET]]
 
 !INSANITY
 
@@ -66,5 +68,5 @@ R: **CHASE-DOWN**
 !INSANITY halts movement, tendrils shooting out of his back and latching into the floor. the player has 5 seconds to aim their dash before !INSANITY takes off at high speed, turning POSSIBLE but not sharp turning, think of it like noli's dash. if he hits someone, he'll grab them and use a tendril to stab them, throwing them away afterwards, dealing 40 damage and applying **PIRATED III** to them. if he's missed, he's highlighted to all survivors for 5 seconds and given a speed debuff of 25% for 10 seconds. his windup is interruptible by stunning, and any character with a block/parry move CAN use that to the dash, but it will cause them to be flung back, with 10% longer cooldown and- if block gives charge for another ability, it wont be granted.
 
 
-Special lmses: **2-FACED HERO** *vs Protector*, **UNRECOGNISABLE FACE** *vs Ivy*, **WAR-TORN FLESH** *vs deleter*, and **OLD PALS** *vs Blaster*.
+Special lmses: [[2-FACED HERO.mp3]] *vs Protector*, [[UNRECOGNISABLE FACE.mp3]] *vs Ivy*, [[WAR-TORN FLESH.mp3]] *vs deleter*, and [[OLD PALS.mp3]] *vs Blaster*.
 
